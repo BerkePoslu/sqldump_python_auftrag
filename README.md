@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Deine Aufgabe ist es, ein Python-Skript zu erstellen, das einen SQL-Dump von einer lokalen MySQL-Datenbank macht. Du sollst dabei über die Konsole die Verbindungsdaten zur Datenbank abfragen und anschließend den Dump in einer `.sql`-Datei speichern.
+Deine Aufgabe ist es, ein Python-Skript zu erstellen, das einen SQL-Dump von einer lokalen MySQL-Datenbank macht. Du sollst dabei über die Konsole die Verbindungsdaten zur Datenbank abfragen und anschliessend den Dump in einer `.sql`-Datei speichern.
 
 ## Anleitung
 
@@ -116,7 +116,7 @@ Um das Skript jeden Sonntag automatisch auszuführen, musst du einen Cron-Job er
 
    Ersetze `/mnt/c/Pfad/zu/deinem/Skript` mit dem tatsächlichen Pfad zu deinem Python-Skript.
 
-3. **Crontab speichern und schließen**: Speichere die Änderungen und schließe den Editor.
+3. **Crontab speichern und schliessen**: Speichere die Änderungen und schliesse den Editor.
 
 ### 5. Testen
 
